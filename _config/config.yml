@@ -1,0 +1,7 @@
+---
+Name: tabloid
+After: 'framework/*','cms/*'
+---
+Page:
+  extensions:
+    - Tabloid
